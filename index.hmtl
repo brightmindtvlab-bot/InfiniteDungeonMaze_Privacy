@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stardust Colony — Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            line-height: 1.7;
+        }
+        h1 {
+            color: #1a1a2e;
+            border-bottom: 2px solid #7df9ff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #16213e;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy — Infinite Dungeon Maze</h1>
+    <p><strong>Last updated: February 26, 2026</strong></p>
+
+    <p>This Privacy Policy describes how Stardust Colony ("the game") 
+    handles information when you play.</p>
+
+    <h2>Information We Collect</h2>
+    <p>Stardust Colony does not collect, store, or share any personal 
+    information. The game does not require you to create an account or 
+    provide any personal details to play.</p>
+
+    <h2>Game Save Data</h2>
+    <p>Your game progress is saved locally on your device and optionally 
+    backed up to Firebase (a Google service) to protect your progress if 
+    you reinstall the app or switch devices. This save data contains only 
+    game progress information such as your colony level, crops, and 
+    achievements. It does not contain your name, email address, location, 
+    or any other personal information.</p>
+
+    <h2>Third Party Services</h2>
+    <p>The game uses Firebase by Google for cloud save functionality. 
+    Firebase may collect anonymous usage and crash data according to 
+    Google's own privacy policy, which can be found at 
+    <a href="https://policies.google.com/privacy">policies.google.com/privacy</a>.
+    </p>
+
+    <h2>Children's Privacy</h2>
+    <p>Stardust Colony is suitable for all ages. The game does not 
+    knowingly collect any personal information from anyone, including 
+    children under the age of 13.</p>
+
+    <h2>Advertising</h2>
+    <p>Stardust Colony contains no advertisements.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>If this privacy policy changes in the future, the updated version 
+    will be posted at this URL with a new date at the top.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions about this privacy policy, you can 
+    contact us at: 
+    <a href="mailto:brightmindtvlab@gmail.com">brightmindtvlab@gmail.com</a></p>
+
+</body>
+</html>
